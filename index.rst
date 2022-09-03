@@ -14,7 +14,7 @@ strengthen* some lasting
 
 Here is some new content from VS Code.
 
-And here is some more content -- this time from Github
+Here is a **shiny** new note.
 
 Throughout your journey you will
 both likely learn new ``concepts`` and
